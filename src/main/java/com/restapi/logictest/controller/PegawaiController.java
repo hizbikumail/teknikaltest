@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author W10
+ * @author hizkum
  */
 @RestController
 @RequestMapping(value = "/pegawai")

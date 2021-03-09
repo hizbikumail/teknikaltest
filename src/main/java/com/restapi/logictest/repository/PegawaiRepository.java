@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  *
- * @author W10
+ * @author hizkum
  */
 public interface PegawaiRepository extends JpaRepository<PegawaiEntity, Integer>{
     
